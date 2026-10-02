@@ -1,0 +1,10 @@
+# Host-only Codex state, credentials, and logs
+auth.json
+codex-home/
+issue-logs/
+codex-issue-worktrees/
+.env
+.env.*
+*.pem
+*.p12
+*.key
